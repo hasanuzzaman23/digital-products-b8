@@ -1,7 +1,28 @@
-*{
-    margin: 0px;
-    padding: 0px;
+* {
+  margin: 0px;
+  padding: 0px;
 }
-.test{
-    color: blue;
+.test {
+  color: blue;
+}
+
+.box {
+  padding: 20px;
+  background-color: red;
+  width: 110px;
+  height: 110px;
+}
+.box2 {
+  background-color: green;
+}
+.box3 {
+  background-color: blue;
+}
+
+.container {
+  border: 1px solid gray;
+  display: flex;
+  height: 500px;
+  justify-content: space-around;
+  align-items: center;
 }
