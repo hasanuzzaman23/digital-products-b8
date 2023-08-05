@@ -86,8 +86,10 @@ font-weight: bold;
     width: 70px;
 }
 .box-btn{
-    background-color: gray;
+    background-color: rgb(222, 146, 59);
     margin-top:10px;
+    color: rgba(22, 2, 2, 0.895);
+    
 }
 .box-title{
     padding: 10px;
