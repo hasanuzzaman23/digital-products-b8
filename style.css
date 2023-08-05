@@ -53,10 +53,14 @@ font-weight: bold;
     margin-bottom: 15px;
 }
 .btn{
+    margin:5px auto 0px;
+    border-style:solid;
     padding:10px 20px;
     background-color:red;
-    color: white;
-    border: none;
+    color: rgba(22, 2, 2, 0.895);
+    border-radius: 20px;
+    border-color: rgb(2, 144, 19);
+
 }
 .about-container{
     display: flex;
